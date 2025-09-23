@@ -110,13 +110,5 @@ Create a .env file in both backend/ and frontend/ with keys for:
 
 - Scales easily with microservices + real-time communication.
 
-## 🏆 Achievements
-
-- <2 sec response time for voice interactions.
-
-- 100% real-time audio streaming with WebRTC.
-
-- Unlimited vehicle profile storage via SQLite.
-
 ## 🔗 Demo Link
 - https://youtu.be/i7SzEbenx5w
